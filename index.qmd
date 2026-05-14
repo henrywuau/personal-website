@@ -1,0 +1,17 @@
+---
+title: "Henry Wu"
+---
+
+![](pfp1.jpeg){width=300px} <br>
+✉️ wu_henry@outlook.com <br>
+
+I am a PhD student in Buddhist studies at the [International College for Postgraduate Buddhist Studies](https://www.icabs.ac.jp/), Tokyo, Japan. 
+
+My doctoral thesis is about the translation practice of Kumārajīva (c. 350s–c. 411) and his disciples, focussing in particular on their 406 CE translation of the <em>Vimalakīrtinirdeśa</em>.
+
+My research interests include:<br>
+- Buddhist translations and commentaries in East Asia<br>
+- The acculturation of Buddhism in Six Dynasties/Early Medieval China<br>
+- The permeable relationship between translation and exegesis across Buddhist traditions<br>
+- The history of translation and cross-cultural exchange, especially in  premodern Asia<br>
+- Historical linguistics, textual criticism and manuscript studies in general, including  computational approaches to philology<br>
