@@ -1,1 +1,1 @@
-Sitemap: https://henrywuau.github.io/personal-webiste/sitemap.xml
+Sitemap: https://henrywuau.github.io/personal-website/sitemap.xml
