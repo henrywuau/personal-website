@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 Peer-reviewed publications
 </h2>
 <ul>
-<li>Forthcoming. ‘A Re-examination of the ‘Western Text’ 胡本 Quoted in the <em>Zhu Weimojie jing</em> 注維摩詰經’. <em>Journal of Indian and Buddhist Studies</em> 『印度學佛教學研究』.<br></li>
+<li>2026.03. ‘A Re-examination of the ‘Western Text’ 胡本 Quoted in the <em>Zhu Weimojie jing</em> 注維摩詰經’. <em>Journal of Indian and Buddhist Studies</em> 『印度學佛教學研究』 74.3: 1226-1229. (Erratum: The subheading ‘2. The name of the text’ should read ‘2. The nature of the text’.) <br></li>
 <li>2025.12. <a href="https://icabs.repo.nii.ac.jp/records/2000235">‘Patterns of Textual Variation between Kumārajīva’s Chinese Translation of the <em>Vimalakīrtinirdeśa</em> and the Sanskrit Text and Other Translations.’</a> <em>Sengokuyama Journal of Buddhist Studies</em> 『仙石山仏教学論集』 16: 65-115.</li>
 </ul>
 <h2 class="anchored">
@@ -237,7 +237,7 @@ Conference presentations and talks
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/henrywuau\.github\.io\/personal-website\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
